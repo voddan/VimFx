@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/akhodakivskiy/VimFx/develop/icon-large.png" alt="" align="right">
 
-<!!!> This is a special fork, which allows using ALT as a shortcut modifier
+<!!!> This is a special fork, which allows using ALT as a shortcut modifier<br>
 <!!!> https://github.com/akhodakivskiy/VimFx/issues/194#issuecomment-27650836
 
 [VimFx] is a [Mozilla Firefox] extension which adds Vim-style keyboard shortcuts
